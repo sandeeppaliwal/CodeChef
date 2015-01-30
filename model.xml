@@ -1,0 +1,43 @@
+<items>
+	
+	<item >
+		<tags id="readfile1" display="Read file into a variable">read,file</tags>
+	</item>
+	<item >
+		<tags id="writefile1" display="Write a file from given content">create,write,file</tags>
+	</item>
+	<item >
+		<tags id="createpdf1" display="Create PDF file from HTML">create,pdf</tags>
+	</item>
+	<item >
+		<tags id="createpdf2" display="Write PDF file from variable or another file">write,pdf</tags>
+	</item>
+	<item >
+		<tags id="readpdf1" display="Read PDF file into a variable">read,pdf</tags>
+	</item>
+	<item >
+		<tags id="createspreadsheet1" display="Create spreadsheet">create,spreadsheet</tags>
+	</item>
+	<item >
+		<tags id="readspreadsheet1" display="Read spreadsheet into a variable">read,spreadsheet</tags>
+	</item>
+	<item >
+		<tags id="mail1" display="Send mail to one or more recipients">send,mail</tags>
+	</item>
+	<item >
+		<tags id="expandpath" display="Get Path to current directory">path,expandpath,current,directory</tags>
+	</item>
+	<item >
+		<tags id="query1" display="Run a databse query">query,databse,sql</tags>
+	</item>
+	<item >
+		<tags id="loop1" display="Loop over an array">loop,array</tags>
+	</item>
+	<item >
+		<tags id="loop2" display="Loop over a query">loop,query</tags>
+	</item>
+	<item >
+		<tags id="loop3" display="Indexed loop over a range of values">loop,range,index</tags>
+	</item>
+	
+</items>

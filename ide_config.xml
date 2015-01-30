@@ -1,0 +1,21 @@
+<application>
+	<name>Code Chef</name>
+	<author>Sandeep - http://sandeepp.org</author>
+	<version>1.0</version>
+	<email>sandy801@gmail.com</email>
+	<description>description.htm</description>
+	<license>TBD</license>
+	
+	<viewcontributions> 
+	    <view id="CodeChef" icon="images/codechef_icon.png" title="Code Chef" handlerid="h1" > 
+		    <!--<toolbarcontributions> 
+	            <toolbaritem icon="images/refresh.png" handlerid="h2" /> 
+	        </toolbarcontributions>-->
+	    </view> 
+	</viewcontributions>
+	
+	<handlers> 
+    	<handler id ="h1" type="cfm" filename="start.cfm" />
+    	<handler id ="h2" type="cfm" filename="restart.cfm" /> 
+	</handlers> 
+</application>
